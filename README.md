@@ -1,3 +1,3 @@
-# This is my learning Github.com repo
+# Making a conflikt
 
-This is my new repo
+this file supose to make a conflict
